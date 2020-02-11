@@ -1,0 +1,41 @@
+.clearfix:after{
+    content: " ";
+    clear: both;
+    display: block;  
+}
+
+.gameStat{
+    background-color: #AAA;
+    border-width: 1px;
+    border-style: solid;
+    max-width: 300px;
+    min-width:200px;
+    padding:10px;
+}
+.cv{
+    float:left;
+}
+.item{
+    background-color: #777;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.tp0{
+    background-color: #007;
+}
+.tp1{
+    background-color: #770;
+}
+.tp2{
+    background-color: #444;
+}
+.tp3{
+    background-color: #700;
+}
+.tp4{
+    background-color: #707;
+}
+.sel{
+    margin-left: 20px;
+}
